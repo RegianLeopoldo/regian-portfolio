@@ -69,20 +69,20 @@ src/
 
 ---
 
-## 🌐 Deploy
+## Deploy
 
-https://seu-link-vercel-aqui.vercel.app
+https://regian-portfolio.vercel.app
 
 ---
 
-## 📫 Contato
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/regian-leopoldo-463777304
 - GitHub: https://github.com/RegianLeopoldo
 
 ---
 
-## 🚀 Objetivo
+## Objetivo
 
 Busco oportunidades como Desenvolvedor Full Stack, contribuindo com soluções escaláveis e de qualidade.
 
